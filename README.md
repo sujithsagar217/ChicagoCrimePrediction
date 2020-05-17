@@ -15,10 +15,10 @@ No specific software is required. Code can be executed in **google colaboratory*
 
 Two Methods
 
- 1. First Method
-	 Download kaggle.json file (already uploaded on Git)
-	 Open File 'New_attempt.ipynb' and Start Running Cells
-	 Downloaded kaggle.json file needs to be uploaded in Colab
+ 1. First Method  
+	 Download kaggle.json file (already uploaded on Git)  
+	 Open File 'New_attempt.ipynb' and Start Running Cells  
+	 Downloaded kaggle.json file needs to be uploaded in Colab  
 	
  2. Second Method
  	  
