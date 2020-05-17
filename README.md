@@ -21,6 +21,9 @@ Two Methods
 	 Downloaded kaggle.json file needs to be uploaded in Colab
 	
  2. Second Method
+ 	  
+	  Google colab program link "https://colab.research.google.com/gist/sujithsagar217/f7e698a81dfeb694276786f053155e2a/new_attempt.ipynb" .
+	  
 	  Download Data Set From “https://drive.google.com/file/d/1M1-aNTSlAoubyN-kg6KKJgKstiTP8RpH/view?usp=sharing .”
 
 ## **Algorithms used**
